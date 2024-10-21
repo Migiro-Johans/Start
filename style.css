@@ -1,0 +1,54 @@
+.Program{
+    background-color: aquamarine;
+    width: auto;
+    height: 400px;;
+
+}
+.cover{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    padding: 0%;
+
+
+
+}
+.div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:20vh;
+    margin-bottom: 0%;
+    padding-bottom: 0;
+}
+.div2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:auto;
+    margin-top: 0%;
+    padding: top 0;;
+}
+.img1{
+    border-radius: 50%;
+    height: 300px;
+}
+.imgprog1{
+    
+    Float: left;
+    height: 100px;
+    border-radius: 100%;
+    padding: 0%;
+}
+.imgsys1{
+
+    Float: left;
+    height: 100px;
+    border-radius: 50%;
+}
+.button1{
+    display:flex;
+    color:white;
+    justify-content: center;
+}
